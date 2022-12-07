@@ -3,5 +3,7 @@ Use Case: Ease and speed up the creation of a summary that condenses Wikipedia p
 
 Roadmap
 07.12.2022 - 12.12.2022: Creation of the Python script to generate the summary
+
 13.12.2022 - 14.12.2022: Creation of the UI, whether it is a chatbot or a Web UI
+
 15.12.2022: Documentation and Presentation creation
